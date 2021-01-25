@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 function afficherMsg() {
-    echo 'Bonjour <br>';
+    echo 'Bonjour <br>';  
 }
 
 afficherMsg();
